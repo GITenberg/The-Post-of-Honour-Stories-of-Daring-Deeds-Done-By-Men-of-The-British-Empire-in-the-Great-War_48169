@@ -1,4 +1,8 @@
 _repo: The-Post-of-Honour-Stories-of-Daring-Deeds-Done-By-Men-of-The-British-Empire-in-the-Great-War_48169
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48169-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, Richard
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34343
     wikipedia: http://en.wikipedia.org/wiki/Richard_Wilson_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48169#The-Post-of-Honour-Stories-of-Daring-Deeds-Done-By-Men-of-The-British-Empire-in-the-Great-War
 gutenberg_issued: '2015-02-05'
 gutenberg_type: Text
 identifiers:
